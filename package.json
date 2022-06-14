@@ -1,0 +1,32 @@
+{
+    "name": "birthday",
+    "version": "1.4.29",
+    "description": "Birthday greetings..",
+    "main": " ",
+    "engines": {
+      "node": "16.13.0",
+      "npm": "8.1.0"
+    },
+    "scripts": {
+      "server-node": "http-server -p 8081",
+      "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/NghiaCao0809/HappyBirthday"
+    },
+    "keywords": [
+      "Birthday"
+    ],
+    "author": "Nghia Cao",
+    "license": "WTFPL",
+    "bugs": {
+      "url": "https://github.com/NghiaCao0809/HappyBirthday/issues"
+    },
+    "homepage": "https://github.com/NghiaCao0809/HappyBirthday#readme",
+    "dependencies": {
+      "http-server": "^0.11.1"
+    }
+  }
+  
